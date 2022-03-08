@@ -1,4 +1,6 @@
 ### Hi there 👋
+# This Araa Rasehk 
+### a Civil Engineer and a self taught Developer
 
 <!--
 **AraaRashek/AraaRashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
