@@ -3,6 +3,7 @@
 ### A Civil Engineer and a self taught Developer
 # languages : Python - JavaScript
 # Frameworks : Django - React -Redux- ReactNative
+# Python Algorithms and DataStructure 
 
 # Coming Soon : 
 # React Reusable Components Library 
