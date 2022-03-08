@@ -1,5 +1,5 @@
 ### Hi there 👋
-# This Araa Rasehk 
+# This is Araa Rasehk 
 ### A Civil Engineer and a self taught Developer
 # languages : Python - JavaScript
 # Frameworks : Django - React -Redux- ReactNative
