@@ -1,6 +1,13 @@
 ### Hi there 👋
 # This Araa Rasehk 
-### a Civil Engineer and a self taught Developer
+### A Civil Engineer and a self taught Developer
+# languages : Python - JavaScript
+# Frameworks : Django - React -Redux- ReactNative
+
+# Coming Soon : 
+# React Reusable Components Library 
+# Django-React-It  library 
+
 
 <!--
 **AraaRashek/AraaRashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
