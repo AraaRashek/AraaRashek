@@ -1,20 +1,12 @@
-### Hi there 👋
-
-# This is Araa Rasehk 
-### A Civil Engineer and a self taught Developer
 
 
-# languages : Python - JavaScript
+### Araa Rasehk 
+### DevOps Kubernetes AWS Azure DigitalOcean
+
+
+# languages : Python - JavaScript 
 # Frameworks : Django - React -Redux- ReactNative
 # Python Algorithms and DataStructure 
-# Python Dynamo for Revit 
-
-# Coming Soon : 
-
-# React Reusable Components Library 
-# Django-React-It  library 
-# Dynamo For Revit 
-
 
 <!--
 **AraaRashek/AraaRashek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
